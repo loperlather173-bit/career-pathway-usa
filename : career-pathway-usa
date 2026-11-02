@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>$100 Claim Offer</title>
+
+<style>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #090909, #24200e, #090909);
+  color: white;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.container {
+  width: 100%;
+  max-width: 430px;
+  text-align: center;
+  padding: 35px 22px;
+  border: 1px solid #d6a92e;
+  border-radius: 22px;
+  background: rgba(20,20,20,0.95);
+  box-shadow: 0 0 35px rgba(255,190,40,0.18);
+}
+
+.tag {
+  display: inline-block;
+  background: #d6a92e;
+  color: #111;
+  padding: 9px 18px;
+  border-radius: 30px;
+  font-weight: bold;
+  margin-bottom: 25px;
+}
+
+h1 {
+  font-size: 38px;
+  color: #ffd45c;
+  margin-bottom: 15px;
+}
+
+h2 {
+  font-size: 23px;
+  margin-bottom: 18px;
+}
+
+p {
+  color: #ccc;
+  line-height: 1.7;
+  margin-bottom: 25px;
+}
+
+.offer {
+  font-size: 65px;
+  font-weight: bold;
+  color: #ffd45c;
+  margin: 20px 0;
+  text-shadow: 0 0 20px #b88620;
+}
+
+.claim-btn {
+  display: block;
+  width: 100%;
+  padding: 17px;
+  margin-top: 18px;
+  border-radius: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  background: linear-gradient(90deg,#ffd45c,#e6a817);
+  color: #111;
+  box-shadow: 0 5px 20px rgba(255,190,40,0.2);
+  transition: 0.3s;
+}
+
+.claim-btn:hover {
+  transform: scale(1.04);
+}
+
+.footer {
+  font-size: 12px;
+  color: #888;
+  margin-top: 28px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+  <div class="tag">✨ SPECIAL OFFER</div>
+
+  <h1>CONGRATULATIONS!</h1>
+
+  <h2>You May Qualify for a Reward</h2>
+
+  <div class="offer">$100</div>
+
+  <p>
+    Discover this special promotional offer.
+    Click below to visit the offer page and
+    review the eligibility and terms.
+  </p>
+
+  <a class="claim-btn"
+  href="https://singingfiles.com/show.php?l=0&u=2556217&id=75220"
+  target="_blank" rel="noopener noreferrer">
+  🎁 CLAIM YOUR $100
+  </a>
+
+  <a class="claim-btn"
+  href="https://singingfiles.com/show.php?l=0&u=2556217&id=75220"
+  target="_blank" rel="noopener noreferrer">
+  🚀 GET STARTED NOW
+  </a>
+
+  <div class="footer">
+    Promotional offer. Eligibility and terms apply.
+    No reward is guaranteed.
+  </div>
+
+</div>
+
+</body>
+</html>
